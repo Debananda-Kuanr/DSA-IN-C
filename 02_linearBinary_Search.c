@@ -44,3 +44,9 @@ int main(){
     printf("The element %d was found at index %d \n", element, searchIndex);
     return 0;
 }
+
+//linear Search image:
+//https://cwh-full-next-space.fra1.digitaloceanspaces.com/videos/data-structures-and-algorithms-in-hindi-12/Image_1.webp
+
+//Binary Search image:
+//https://cwh-full-next-space.fra1.digitaloceanspaces.com/videos/data-structures-and-algorithms-in-hindi-12/Image_2.webp
