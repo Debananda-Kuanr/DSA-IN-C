@@ -1,4 +1,4 @@
-# DSA in C - Daily Progress
+# DSA in C - Exam Ready
 
 ## Purpose
 
