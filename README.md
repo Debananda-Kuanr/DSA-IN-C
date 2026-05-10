@@ -23,6 +23,7 @@ May 10, 2026
 9. Stack using linked list
 10. Parenthesis matching using stack
 11. Multiple parenthesis matching
+12. Infix to postfix conversion using stack
 
 ## Linked List Topics Covered in Detail
 
@@ -53,6 +54,8 @@ May 10, 2026
 - `DSA-IN-C/09_Stack_Using_Linklist.c`
 - `DSA-IN-C/10_Parenthesis_Matching_Using_Stack.c`
 - `DSA-IN-C/11_Multiple_Parenthesis_Matching.c`
+- `DSA-IN-C/12_Infix_To_Postfix_Using_Stack.c`
+
 
 ## Author
 
