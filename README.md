@@ -23,7 +23,7 @@ May 10, 2026
 9. Stack using linked list
 10. Parenthesis matching using stack
 11. Multiple parenthesis matching
-12. Infix to postfix conversion using stack
+12. Infix to postfix conversion using stack // A Small Review Needed
 
 ## Linked List Topics Covered in Detail
 
